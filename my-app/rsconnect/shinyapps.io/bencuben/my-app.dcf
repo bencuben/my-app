@@ -1,0 +1,12 @@
+name: my-app
+title: my-app
+username:
+account: bencuben
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 288261
+bundleId: 1239216
+url: https://bencuben.shinyapps.io/my-app/
+when: 1519584645.50774
+asMultiple: FALSE
+asStatic: FALSE
